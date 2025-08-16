@@ -5,13 +5,13 @@
 
 ---
 
-## 🔧 **Features**  
-✅ **Full HTTP/1.1** support (RFC 7230/7231)  
-✅ **GET/POST** handling with query/body parsing  
-✅ **Static file serving** (e.g., HTML, CSS, JS)  
-✅ **Concurrent connections** (goroutine-per-request)  
-✅ **Zero dependencies** (pure Go, no frameworks)  
-✅ <1000 LOC — easy to audit or extend  
+## **Features**  
+1. **Full HTTP/1.1** support (RFC 7230/7231)  
+2. **GET/POST** handling with query/body parsing  
+3. **Static file serving** (e.g., HTML, CSS, JS)  
+4. **Concurrent connections** (goroutine-per-request)  
+5. **Zero dependencies** (pure Go, no frameworks)  
+6. <1000 LOC — easy to audit or extend  
 
 ---
 
