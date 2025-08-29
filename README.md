@@ -1,4 +1,4 @@
-# RFC-Low-Level-HTTP-Server  
+# RFC HTTP Server  
 
 🚀 **A minimal, zero-dependency HTTP/1.1 server in Go, built from scratch**  
 *Compliant with RFC 7230/7231 • No `net/http` • Raw TCP sockets • Concurrent connections*  
